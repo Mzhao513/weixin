@@ -1,9 +1,12 @@
 # imchat
+#使用VUE-mock.js-socket.io-json-server搭建一个即时聊天工具
 
-> A Vue.js project
-
-## Build Setup
-
+测试账号17665202222/123123
+测试账号17665202221/123123
+#socket.io服务器端为socket/index.js
+## 启动socket服务器 node index.js
+#启动项目
+## npm run dev
 ``` bash
 # install dependencies
 npm install
